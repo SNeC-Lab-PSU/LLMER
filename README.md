@@ -33,11 +33,14 @@ If you use this implementation, methodology, or any part of this repository in y
 ---
 
 ## License
-This repository is licensed under a **custom academic and non-commercial license**, based on the **MIT License**. Usage of the code and assets is permitted only for:
-- Academic research
-- Non-commercial projects
+This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License**. This means:
 
-For commercial use or inquiries, please contact us.
+- You are free to **use, modify, and share** the code and assets **for academic and non-commercial purposes**.
+- **Commercial use is prohibited** without explicit permission.
+
+For commercial licensing or inquiries, please **contact us**.
+
+For more details, see the [LICENSE](./LICENSE) file or visit the [official CC BY-NC 4.0 page](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
