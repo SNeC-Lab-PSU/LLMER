@@ -1,0 +1,7 @@
+.env
+testFiles
+data_*/
+__pycache__
+
+# Ignore VS Code settings
+.vscode/
