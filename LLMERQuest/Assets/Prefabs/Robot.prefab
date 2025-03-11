@@ -869,17 +869,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   testText: {fileID: 0}
-  testBool: 0
   raycastRadius: 5
   user: {fileID: 0}
   leftHand: {fileID: 0}
   rightHand: {fileID: 0}
   _realworldLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   _envObjLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 448
 --- !u!114 &3653637841467715649
 MonoBehaviour:
   m_ObjectHideFlags: 0
