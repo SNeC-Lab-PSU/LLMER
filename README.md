@@ -45,6 +45,15 @@ We are excited to open source our implementation for **academic and non-commerci
 6. Put on the Meta Quest device, you are supposed to find a blue robot in the environment, interact with it by speaking to control its activities. The audio recording can be triggered by either pressing and holding the right controller's `B` button, or pressing and holding the `R` on the keyboard, or pinching the thumb and middle finger of left hand (only available in the `MRWorld` scene). The audio recording is ended by releasing the hand or the controller's button or the keyboard. An example command for testing is `Create a small red cube`. Note that testing without a Quest device is also supported, in that case, ensure the audio source is properly set in the `AudioInput.cs` script.
 
 ---
+## Instructions on Adding Local Resources
+
+1. Prepare your own Prefab models. **Note: Colliders are required for the objects to be detected by the Context Library.**
+2. Copy or move the Prefabs to the **Assets > Resources** folder.
+3. Click **Tools > Collect Resource Names**.
+4. Check the flie **Assets > Resources > prefabNames.txt** that your Prefabs are added.
+5. You can freely create your models during runtime now. LLMER will automatically use your model once related commands are detected.
+
+---
 
 ## Citation
 If you use this implementation, methodology, or any part of this repository in your research, please cite our paper:
